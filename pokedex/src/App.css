@@ -13,3 +13,22 @@ nav{
 .img-navbar{
   width: 160px;
 }
+
+.searchbar-container{
+  display: flex;
+  align-items: center;
+  margin:0px auto;
+  padding: 0 20px;
+}
+
+.searchbar{
+  background-color: white;
+  margin-right: 10px;
+}
+
+.searchbar input{
+}
+
+.App{
+  text-align: center;
+}
